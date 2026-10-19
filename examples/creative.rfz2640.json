@@ -1,0 +1,484 @@
+{
+ "theme": "blue",
+ "cam": [
+  {
+   "start": 0,
+   "end": 5.68,
+   "s": 1.0,
+   "to": 1.05,
+   "cx": 0.5
+  },
+  {
+   "start": 5.68,
+   "end": 11.14,
+   "s": 1.18,
+   "to": 1.12,
+   "cx": 0.5
+  },
+  {
+   "start": 11.14,
+   "end": 24.28,
+   "s": 1.05,
+   "to": 1.12,
+   "cx": 0.5
+  },
+  {
+   "start": 24.28,
+   "end": 36.98,
+   "s": 1.22,
+   "to": 1.15,
+   "cx": 0.5
+  },
+  {
+   "start": 36.98,
+   "end": 53.98,
+   "s": 1.0,
+   "to": 1.08,
+   "cx": 0.5
+  },
+  {
+   "start": 53.98,
+   "end": 69.57,
+   "s": 1.2,
+   "to": 1.14,
+   "cx": 0.5
+  },
+  {
+   "start": 69.57,
+   "end": 77.85,
+   "s": 1.06,
+   "to": 1.1,
+   "cx": 0.5
+  },
+  {
+   "start": 77.85,
+   "end": 92.84,
+   "s": 1.25,
+   "to": 1.17,
+   "cx": 0.5
+  },
+  {
+   "start": 92.84,
+   "end": 102.6,
+   "s": 1.0,
+   "to": 1.06,
+   "cx": 0.5
+  },
+  {
+   "start": 102.6,
+   "end": 113.03,
+   "s": 1.18,
+   "to": 1.12,
+   "cx": 0.5
+  },
+  {
+   "start": 113.03,
+   "end": 117.4507,
+   "s": 1.3,
+   "to": 1.34,
+   "cx": 0.5
+  }
+ ],
+ "captions": [
+  [
+   "Vou te explicar o que é o",
+   0.1,
+   0.83
+  ],
+  [
+   "Fábrica Blindada.",
+   0.83,
+   1.64
+  ],
+  [
+   "Fábrica Blindada é um",
+   1.64,
+   2.54
+  ],
+  [
+   "programa que vai iniciar em",
+   2.54,
+   4.25
+  ],
+  [
+   "2027, tá?",
+   4.25,
+   5.68
+  ],
+  [
+   "É um programa que nós",
+   5.68,
+   6.83
+  ],
+  [
+   "criamos dentro da Dal Cero",
+   6.83,
+   8.48
+  ],
+  [
+   "com uma metodologia baseada",
+   8.48,
+   9.83
+  ],
+  [
+   "em quatro pilares, tá?",
+   9.83,
+   11.14
+  ],
+  [
+   "Pilar 1, liderança no chão",
+   11.14,
+   12.83
+  ],
+  [
+   "de fábrica, tá?",
+   12.83,
+   14
+  ],
+  [
+   "O que eu quero aqui?",
+   14,
+   15.01
+  ],
+  [
+   "Eu quero aqui trazer",
+   15.01,
+   16.22
+  ],
+  [
+   "engajamento para o time,",
+   16.22,
+   18.2
+  ],
+  [
+   "trazer o senso de resultado,",
+   18.2,
+   20.11
+  ],
+  [
+   "que eles trabalhem em",
+   20.11,
+   21.74
+  ],
+  [
+   "cooperação, mas resultado.",
+   21.74,
+   24.28
+  ],
+  [
+   "2, eu estou falando de",
+   24.28,
+   25.96
+  ],
+  [
+   "regulatório, assuntos",
+   25.96,
+   27.64
+  ],
+  [
+   "regulatórios.",
+   27.64,
+   29.01
+  ],
+  [
+   "Então, atualizações semanais",
+   29.01,
+   30.42
+  ],
+  [
+   "sobre tudo que é conteúdo",
+   30.42,
+   31.64
+  ],
+  [
+   "novo que está saindo, só que",
+   31.64,
+   33.16
+  ],
+  [
+   "de uma maneira já traduzida",
+   33.16,
+   35.01
+  ],
+  [
+   "para o negócio do cara.",
+   35.01,
+   36.98
+  ],
+  [
+   "3, estou falando de",
+   36.98,
+   37.79
+  ],
+  [
+   "qualidade.",
+   37.79,
+   38.44
+  ],
+  [
+   "E aqui a gente está falando",
+   38.44,
+   40
+  ],
+  [
+   "em equipes de qualidade",
+   40,
+   41.51
+  ],
+  [
+   "orientadas a resultado.",
+   41.51,
+   43.5
+  ],
+  [
+   "Então, de uma maneira que a",
+   43.5,
+   44.77
+  ],
+  [
+   "gente olhe para o negócio e",
+   44.77,
+   46.34
+  ],
+  [
+   "faça o time de qualidade entender",
+   46.34,
+   48.55
+  ],
+  [
+   "que o papel dele é a empresa",
+   48.55,
+   50.16
+  ],
+  [
+   "ganhar dinheiro, sem",
+   50.16,
+   51.64
+  ],
+  [
+   "deixar de fazer a coisa",
+   51.64,
+   53.12
+  ],
+  [
+   "certa. Muitas vezes os times de",
+   53.12,
+   55.46
+  ],
+  [
+   "qualidade têm a visão muito",
+   55.46,
+   57.35
+  ],
+  [
+   "conforme, não conforme...",
+   57.35,
+   58.84
+  ],
+  [
+   "É uma visão meio binária da",
+   58.84,
+   60.31
+  ],
+  [
+   "coisa, só que não é assim",
+   60.31,
+   61.5
+  ],
+  [
+   "que funciona.",
+   61.5,
+   62.16
+  ],
+  [
+   "Eu preciso fazer a empresa",
+   62.16,
+   63.82
+  ],
+  [
+   "produzir com qualidade, mas",
+   63.82,
+   65.64
+  ],
+  [
+   "ela precisa ser pagada,",
+   65.64,
+   66.69
+  ],
+  [
+   "precisa ganhar dinheiro,",
+   66.69,
+   67.39
+  ],
+  [
+   "então é uma qualidade",
+   67.39,
+   68.3
+  ],
+  [
+   "orientada a resultado.",
+   68.3,
+   69.57
+  ],
+  [
+   "E o quarto e último pilar, a",
+   69.57,
+   71.2
+  ],
+  [
+   "gente vai trabalhar em cima",
+   71.2,
+   72.93
+  ],
+  [
+   "de produção, tá?",
+   72.93,
+   74.56
+  ],
+  [
+   "Como que eu faço o negócio",
+   74.56,
+   76.23
+  ],
+  [
+   "produzir melhor?",
+   76.23,
+   77.85
+  ],
+  [
+   "Indicadores de eficiência,",
+   77.85,
+   79.49
+  ],
+  [
+   "benchmarking com outros",
+   79.49,
+   80.97
+  ],
+  [
+   "concorrentes,",
+   80.97,
+   82.14
+  ],
+  [
+   "como que você vai metrificar",
+   82.14,
+   84.04
+  ],
+  [
+   "todos esses indicadores aqui",
+   84.04,
+   86.16
+  ],
+  [
+   "para que você tenha o",
+   86.16,
+   87.43
+  ],
+  [
+   "retorno financeiro do programa",
+   87.43,
+   90.1
+  ],
+  [
+   "de educação corporativa",
+   90.1,
+   91.78
+  ],
+  [
+   "do Fábrica Blindada.",
+   91.78,
+   92.84
+  ],
+  [
+   "Então, o programa ele vai de",
+   92.84,
+   94.99
+  ],
+  [
+   "janeiro a dezembro",
+   94.99,
+   96.48
+  ],
+  [
+   "de 2027",
+   96.48,
+   97.88
+  ],
+  [
+   "e a gente tem",
+   97.88,
+   98.85
+  ],
+  [
+   "uma reunião por semana",
+   98.85,
+   100.68
+  ],
+  [
+   "em um desses quatro pilares",
+   100.68,
+   102.19
+  ],
+  [
+   "aqui. Mentoria ao vivo comigo, se",
+   102.19,
+   104.66
+  ],
+  [
+   "não conseguiu participar no",
+   104.66,
+   106.42
+  ],
+  [
+   "momento da aula ao vivo, vai",
+   106.42,
+   108.12
+  ],
+  [
+   "estar na plataforma.",
+   108.12,
+   109.21
+  ],
+  [
+   "E aí, todas essas métricas a gente",
+   109.21,
+   111.99
+  ],
+  [
+   "vai medir",
+   111.99,
+   113.03
+  ],
+  [
+   "no app do Fábrica Blindada.",
+   113.03,
+   114.93
+  ],
+  [
+   "Esse é o programa.",
+   114.93,
+   116.3
+  ]
+ ],
+ "motions": [
+  {
+   "start": 113.03,
+   "end": 99999,
+   "top": 900,
+   "items": [
+    {
+     "text": "Fábrica Blindada 2027",
+     "at": 113.05
+    },
+    {
+     "text": "Clique em saiba mais",
+     "at": 114.93,
+     "kind": "secondary"
+    }
+   ],
+   "arrow": 115.3
+  }
+ ],
+ "exposure": 0.15
+}

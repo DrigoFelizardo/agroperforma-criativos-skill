@@ -1,0 +1,122 @@
+{
+ "theme": "green",
+ "cam": [
+  {
+   "start": 0,
+   "end": 7.06,
+   "s": 1.0,
+   "to": 1.08,
+   "cx": 0.5
+  },
+  {
+   "start": 7.06,
+   "end": 8.05,
+   "s": 1.25,
+   "to": 1.22,
+   "cx": 0.5
+  },
+  {
+   "start": 8.05,
+   "end": 13.22,
+   "s": 1.06,
+   "to": 1.12,
+   "cx": 0.5
+  },
+  {
+   "start": 13.22,
+   "end": 14.5145,
+   "s": 1.2,
+   "to": 1.24,
+   "cx": 0.5
+  }
+ ],
+ "captions": [
+  [
+   "Você tem certeza",
+   0.0,
+   1.27
+  ],
+  [
+   "que a forma que você tem",
+   1.27,
+   2.24
+  ],
+  [
+   "remunerado a sua equipe,",
+   2.24,
+   3.38
+  ],
+  [
+   "que você tem gerado",
+   3.38,
+   4.34
+  ],
+  [
+   "Eu creio que não.",
+   7.06,
+   8.05
+  ],
+  [
+   "eu posso te ajudar.",
+   12.11,
+   13.3
+  ]
+ ],
+ "motions": [
+  {
+   "start": 4.34,
+   "end": 7.06,
+   "top": 900,
+   "items": [
+    {
+     "text": "Comissionamento",
+     "at": 4.34
+    },
+    {
+     "text": "faz seu time produzir?",
+     "at": 5.7,
+     "kind": "secondary",
+     "small": true,
+     "ring": 6.1
+    }
+   ]
+  },
+  {
+   "start": 8.05,
+   "end": 12.11,
+   "top": 880,
+   "items": [
+    {
+     "text": "25 anos de experiência",
+     "at": 8.48
+    },
+    {
+     "text": "Construindo times de vendas",
+     "at": 9.72,
+     "kind": "secondary",
+     "small": true,
+     "check": true
+    },
+    {
+     "text": "Gerando resultado",
+     "at": 11.15,
+     "kind": "secondary",
+     "check": true
+    }
+   ]
+  },
+  {
+   "start": 13.3,
+   "end": 99,
+   "top": 960,
+   "items": [
+    {
+     "text": "Clique em saiba mais",
+     "at": 13.32
+    }
+   ],
+   "arrow": 13.7
+  }
+ ],
+ "exposure": 0.15
+}
